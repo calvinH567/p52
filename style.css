@@ -1,0 +1,122 @@
+.animals{
+display:flex ;
+justify-content: space-between;
+}
+
+.Objects{
+display: flex;
+justify-content: center;
+}
+
+.camel{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(25,25,100);
+    
+}
+
+
+.chameleon{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(100,20,20);
+}
+
+.pigeon{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(20,100,20);
+}
+
+
+.panda{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(200,40,40);
+}
+
+
+.flying-cicada{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(40,40,200);
+}
+
+.teddy-bear{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(40,200,40);
+}
+
+
+body{
+    background-image: url("oragami.jpg");
+}
+
+
+.camel:hover{
+    opacity: 1;
+    background-color:white;
+    
+    
+}
+.camel{
+    opacity: 0.5;
+}
+
+
+.chameleon:hover{
+      opacity: 1;
+    background-color:white;
+    
+}
+.chameleon{
+    opacity: 0.5;
+}
+
+
+
+.panda:hover{
+      opacity: 1;
+    background-color:white;
+    
+}
+.panda{
+    opacity: 0.5;
+}
+
+
+.pigeon:hover{
+      opacity: 1;
+    background-color:white;
+    
+}
+.pigeon{
+    opacity: 0.5;
+}
+
+
+
+.flying-cicada:hover{
+      opacity: 1;
+    background-color:white;
+    
+}
+.flying-cicada{
+    opacity: 0.5;
+}
+
+
+.teddy-bear:hover{
+      opacity: 1;
+    background-color:white;
+    
+}
+.teddy-bear{
+    opacity: 0.5;
+}
+
+
+
+
+
